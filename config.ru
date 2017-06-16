@@ -233,6 +233,10 @@ pre {
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
+              <h2>Using OpenShift is Easy</h2>
+              <p>
+                OpenShift makes it easy to automtically deploy updates to your application. Read below to find out how!
+              </p>
               <h2>Deploying code changes</h2>
                 <p>
                   The source code for this application is available to be forked from the <a href="https://www.github.com/openshift/ruby-ex">OpenShift GitHub repository</a>.
